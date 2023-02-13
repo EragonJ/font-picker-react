@@ -1,13 +1,12 @@
 {
-    "name": "font-picker-react",
+    "name": "@eragonj/font-picker-react",
     "version": "3.5.2",
     "description": "Font selector component for Google Fonts",
     "author": {
-        "name": "Samuel Meuli",
-        "email": "me@samuelmeuli.com",
-        "url": "https://samuelmeuli.com"
+        "name": "EragonJ",
+        "email": "eragonj@eraognj.me"
     },
-    "repository": "github:samuelmeuli/font-picker-react",
+    "repository": "https://github.com/EragonJ/font-picker-react",
     "homepage": "https://font-picker.samuelmeuli.com",
     "license": "MIT",
     "keywords": [
